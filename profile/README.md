@@ -1,12 +1,32 @@
-## Hi there 👋
+# Bem-vindo à Manaboard
 
-<!--
+## 🙋‍♀️ Introdução
+Manaboard, ou só Mana é uma aplicação para gerenciamento de tarefas com código-fonte aberto. Nosso objetivo é fornecer uma ferramenta eficiente e intuitiva para equipes de todos os tamanhos gerenciarem seus projetos de forma ágil.
 
-**Here are some ideas to get you started:**
+## 🚀 Tecnologias
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- **Back-end**: Nest.js  
+- **Front-end**: React
+- **Banco de dados**: PostgreSQL
+
+## 🌈 Diretrizes de Contribuição
+Estamos sempre em busca de novos colaboradores! Se você deseja contribuir, siga estas etapas:
+1. Faça um fork do repositório que deseja contribuir.
+2. Crie uma branch para sua feature ou correção (`git checkout -b minha-feature`).
+3. Faça commit das suas alterações (`git commit -m 'Adiciona minha feature'`).
+4. Envie para o repositório remoto (`git push origin minha-feature`).
+5. Abra um Pull Request.
+
+## 👩‍💻 Recursos Úteis
+- [Documentação da API](https://github.com/manaboard/mana-api)
+- [Aplicação Web](https://github.com/manaboard/web)
+- [Aplicação Mobile](https://github.com/manaboard/mobile)
+- [Documentação Geral](https://github.com/manaboard/docs)
+
+## 🍿 **Fatos Divertidos**
+
+- Nosso time adora começar o dia com um bom café e um pão de queijo quentinho!
+- "Mana" é um nome criado da união dos nomes das filhas do [Victor Geruso](https://github.com/vgeruso), **Ma**ria e A**na**.
+
+## 🧙 **Licença**
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
